@@ -1,0 +1,15 @@
+[
+    {
+        "Name":"samsung",
+        "Price":77000,
+        "Stock":true
+
+
+    },
+    {
+        "Name":"Redme",
+        "Price":88000,
+        "Stock":true
+
+    }
+]
